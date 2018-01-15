@@ -1,0 +1,5 @@
+Instalar desde PowerShell
+
+1. composer require menarasolutions/geographer   (Instala geographer, vendor)
+
+2. composer require larapack/dd 1.*  (Nos permite Debugear)

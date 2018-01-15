@@ -1,0 +1,6 @@
+{
+    "require": {
+        "menarasolutions/geographer": "^0.3.3",
+        "larapack/dd": "1.*"
+    }
+}
